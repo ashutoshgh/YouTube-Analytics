@@ -37,9 +37,6 @@ library(rpart)
 yt_oauth(app_id="498457305449-oapq36k8vnoomcb027vggodjcvac8a5m.apps.googleusercontent.com", 
          app_secret="1eGEV0tLYy3lF9V4AQH1D14w", token = "")
 
-yt_oauth(app_id = "1062282909801-3b3k7659nb6ip6djf2qj9a9jc86h57b7.apps.googleusercontent.com", 
-         app_secret = "5zDe9IiTHHTayFldCFKZlrMG", token = "")
-
 #get_stats(video_id = "N708P-A45D0")
 
 mkbhd_stats <- get_channel_stats("UCBJycsmduvYEL83R_U4JriQ")
