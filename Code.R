@@ -34,8 +34,8 @@ library(rpart)
 
 #install.packages('gridExtra')
 
-yt_oauth(app_id="498457305449-oapq36k8vnoomcb027vggodjcvac8a5m.apps.googleusercontent.com", 
-         app_secret="1eGEV0tLYy3lF9V4AQH1D14w", token = "")
+yt_oauth(app_id="xxxx", 
+         app_secret="xxx", token = "")
 
 #get_stats(video_id = "N708P-A45D0")
 
